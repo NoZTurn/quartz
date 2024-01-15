@@ -32,6 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.Giscus(),  
   ],
 }
 
@@ -44,7 +45,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
   ],
-  right: [
-    Component.Giscus(),
-  ],
+  right: [],
 }
