@@ -1,0 +1,1 @@
+- 202401151839005 #memos #obsidian使用 #obsidian插件 发现一个新插件https://github.com/Kuingsmile/PicList ，基于https://github.com/Molunerfinn/PicGo ，是否可以代替picgo，还需要再研究。 ^lifloi deletedAt: 202401152148071
