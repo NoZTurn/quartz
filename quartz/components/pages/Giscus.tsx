@@ -16,4 +16,5 @@ function Content() {
                  async>
   </script>
 }
+
 export default (() => Content) satisfies QuartzComponentConstructor
