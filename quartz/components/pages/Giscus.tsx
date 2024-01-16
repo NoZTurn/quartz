@@ -1,4 +1,5 @@
 import { QuartzComponentConstructor } from "../types"
+
 function Content() {
   return <script src="https://giscus.app/client.js"
                  data-repo="NoZTurn/quartz"
