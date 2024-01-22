@@ -9,7 +9,7 @@ This is a page about me, Because I hadn't formed a good habit of writing notes a
 Till now there have three entrance, one is my running page https://run.jiangkai.org , one is my Blog https://www.jiangkai.org , one is here my digital garden https://garden.jiangkai.org .
 目前有三个页面，一个是我的跑步页面 https://run.jiangkai.org ，一个是Blog页面 https://www.jiangkai.org ，一个是数字花园页面 https://garden.jiangkai.org 。
 
-All about the selection of program this three entrance, I will write 
+All about the selection of program, process, principles of this three entrance, I will write later, please be patient.
 关于这三个页面的建立的技术选择、过程、原则，我后续会慢慢写。
 
 有这些想法（建立自己的blog并持续写、记录）已经有好久了，但是从来没有哪一次有这么近过，并且在开始实践了，希望能坚持下去。
