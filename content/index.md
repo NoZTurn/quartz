@@ -15,4 +15,4 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 建立了[关于](about.md)页面。
 
 ### 2024-01-26 16:16:18
-目前主要是基于obsidian memo插件践行卢曼的卡片式记录法记录，主要内容更新见[2024-01-14](DailyNotes/2024-01-14.md)。
+目前主要是基于obsidian memo插件践行卢曼的卡片式记录法记录，主要内容更新见[DailyNotes](DailyNotes)。
