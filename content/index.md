@@ -7,7 +7,7 @@ tags:
 ---
 ### 2024-01-09 21:39:24
 
-安装了Quartz，测试基本可用。
+安装了Quartz，测试基本可用[[，借助Obsidian手机客户端可以实现发布、编辑消息了。
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
