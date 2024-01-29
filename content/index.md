@@ -7,7 +7,7 @@ tags:
 ---
 ### 2024-01-09 21:39:24
 
-安装了Quartz，测试基本可用[[，借助Obsidian手机客户端可以实现发布、编辑消息了。
+安装了Quartz，测试基本可用[the first garden message](the%20first%20garden%20message.md)，借助Obsidian手机客户端可以实现[发布a garden message from iphone](a%20garden%20message%20from%20iphone.md)、[编辑the first garden message](the%20first%20garden%20message.md)消息了。
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
