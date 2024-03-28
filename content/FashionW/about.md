@@ -11,11 +11,15 @@ FashionW operates like most B2C ecommerce site for people who cannot buy smoothl
 这儿是我的个人介绍页，由于以前没有形成记录的习惯，活了几十年，有些记忆已经模糊了，因此很难一次性写全，我将不定期更新。
 <br>
 Our Vision
+我们的愿景
 To share the benifit of the Flat World.
+分享平坦世界的好处。
 Our Values
+我们的价值观
 Trust, Share, Integrate
-Our Mission
-<br>All about the selection of program/apps, process, principles of this three entrance, I will write later, please be patient.
 关于这三个页面的建立的程序、软件选择，过程，原则，我后续会慢慢写，请稍安勿躁。
-<br>I have these ideas(I mean to set up my personal blog and write something continuously)for not a short time, but no action, now something different, I feel from my deep heart this is nearer, this page is a start, hope I can stick to as plan.
-有这些想法（建立自己的blog并持续写、记录）已经有好久了，但一直没有行动，这次不一样了，我自我感觉从来没有哪一次有这么近过，这篇文字就是一个开始，希望能坚持下去。 ^4c5b30
+Our Mission
+我们的使命
+Share the good quality products from the wide broad chinese to as much people as we can with lower cost.
+关于这三个页面的建立的程序、软件选择，过程，原则，我后续会慢慢写，请稍安勿躁。
+ ^4c5b30
