@@ -13,7 +13,7 @@ FashionW operates like most B2C ecommerce site for people who cannot buy smoothl
 Our Vision
 To share the benifit of the Flat World.
 Our Values
-Trust, Share, Lower cost
+Trust, Share, Integrate
 Our Mission
 <br>All about the selection of program/apps, process, principles of this three entrance, I will write later, please be patient.
 关于这三个页面的建立的程序、软件选择，过程，原则，我后续会慢慢写，请稍安勿躁。
