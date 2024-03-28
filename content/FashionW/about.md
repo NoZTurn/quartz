@@ -7,10 +7,13 @@ tags:
 
 We believe **The World Is Flat** which is the core opinion from the book ([The World Is Flat: A Brief History of the Twenty-first Century](https://en.wikipedia.org/wiki/The_World_Is_Flat)) written by [Thomas L. Friedman](https://en.wikipedia.org/wiki/Thomas_Friedman), we firmly believe that everyone should benefits, and think everyone can help others and vice versa, so we are committed to promoting more people share these through sharing and mutual assistance. Our team dedicated with passion and professions to connect people with different countries and professions to meet each other's needs, We use all advanced technologies and software to achieve this goal, especially open source software, in:Ubuntu, Apache, Mysql, PHP, prestashop, Obsidian.
 
-FashionW is operates like a B2C ecommerce site for people who cannot buy smoothly subject to language, logistics and payment restrictions etc.
+FashionW operates like most B2C ecommerce site for people who cannot buy smoothly from the wide broad chinese market subject to language, logistics and payment restrictions etc, but FashionW is not a commercial site oriented for profits based on our missions.
 这儿是我的个人介绍页，由于以前没有形成记录的习惯，活了几十年，有些记忆已经模糊了，因此很难一次性写全，我将不定期更新。
-<br>Till now there have three entrance, one is my running page https://run.jiangkai.org , one is my Blog https://www.jiangkai.org , one is here my digital garden https://garden.jiangkai.org .
-目前有三个页面，一个是我的跑步页面 https://run.jiangkai.org ，一个是Blog页面 https://www.jiangkai.org ，一个是数字花园页面 https://garden.jiangkai.org 。
+<br>
+Our Vision
+Our Values
+Trust, 
+Our Mission
 <br>All about the selection of program/apps, process, principles of this three entrance, I will write later, please be patient.
 关于这三个页面的建立的程序、软件选择，过程，原则，我后续会慢慢写，请稍安勿躁。
 <br>I have these ideas(I mean to set up my personal blog and write something continuously)for not a short time, but no action, now something different, I feel from my deep heart this is nearer, this page is a start, hope I can stick to as plan.
