@@ -5,7 +5,7 @@ tags:
 ---
 [2024-01-22 17:19:52 更新](#^4c5b30)
 
-We believe in the power of entrepreneurship to drive progress and change, and we are committed to support the next generation of innovators. Our team of experienced professionals bring a wealth of knowledge and expertise to the table, from business development and marketing to finance, legal, technology and operations.
+We believe The World Is Flat which is the core opinion of the written by [Thomas L. Friedman]([Thomas Friedman - Wikipedia](https://en.wikipedia.org/wiki/Thomas_Friedman)), and we are committed to support the next generation of innovators. Our team of experienced professionals bring a wealth of knowledge and expertise to the table, from business development and marketing to finance, legal, technology and operations.
 
 Tech Horizons is dedicated to empower entrepreneurs and innovators with the resources and support their needs to succeed. With a deep understanding of the startup landscape, we offer a range of services to help startups at every stage of their entrepreneurial journey.
 这儿是我的个人介绍页，由于以前没有形成记录的习惯，活了几十年，有些记忆已经模糊了，因此很难一次性写全，我将不定期更新。
