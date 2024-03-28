@@ -11,8 +11,9 @@ FashionW operates like most B2C ecommerce site for people who cannot buy smoothl
 这儿是我的个人介绍页，由于以前没有形成记录的习惯，活了几十年，有些记忆已经模糊了，因此很难一次性写全，我将不定期更新。
 <br>
 Our Vision
+To share the benifit of the Flat World.
 Our Values
-Trust, 
+Trust, Share, Lower cost
 Our Mission
 <br>All about the selection of program/apps, process, principles of this three entrance, I will write later, please be patient.
 关于这三个页面的建立的程序、软件选择，过程，原则，我后续会慢慢写，请稍安勿躁。
