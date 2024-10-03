@@ -17,56 +17,55 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 ### 2024-01-16 12:27:00
 感谢 [11ze's Garden-添加评论区](https://wangze.tech/添加评论区) 的教程，折腾把Quartz的giscus评论加上了，唯一美中不足的是quartz设置成Graph view/Backlinks/giscus都只能放在layout的right区中，挤在一起不太美观，看看后续官方更新中是否有改进空间（官方已经将giscus插件放入upcoming feature了，见 [https://github.com/jackyzha0/quartz/blob/v4/docs/features/upcoming features.md](https://github.com/jackyzha0/quartz/blob/v4/docs/features/upcoming%20features.md) ）。
-#### 2024-10-03 23:22:17
-今天发现 [11ze's Garden-添加评论区](https://wangze.tech/添加评论区) 的教程无法访问了，好在官方出了一个教程：[Comments (jzhao.xyz)](https://quartz.jzhao.xyz/features/comments)。不过官方的写法略复杂，结合wangze.tech的教程，记录在这儿，避免失效，如下：<br>
-需要改三个文件：<br>
-1.quartz\quartz\components\pages 文件夹下添加文件，文件名：Giscus.tsx ，内容如下：<br> ^ccb3b2
-```
-import { QuartzComponentConstructor } from "../types"  
-  
-function Content() {  
-  return <script src="https://giscus.app/client.js"  
-                 data-repo="NoZTurn/quartz"  
-                 data-repo-id="R_kgDOLCpiKg"  
-                 data-category="General"  
-                 data-category-id="DIC_kwDOLCpiKs4CccEP"  
-                 data-mapping="title"  
-                 data-strict="0"  
-                 data-reactions-enabled="1"  
-                 data-emit-metadata="0"  
-                 data-input-position="bottom"  
-                 data-theme="preferred_color_scheme"  
-                 data-lang="zh-CN"  
-                 crossorigin="anonymous"  
-                 async>  
-  </script>  
-}  
-  
-export default (() => Content) satisfies QuartzComponentConstructor
-```
-注：以上有关data的内容，请相应修改成自己的。<br>
-2.quartz\quartz\components\index.ts 文件，import最后一行，添加import Giscus from "./pages/Giscus"，export最后一行（<font color="#ff0000">前面}</font>）添加 <font color="#ff0000">Giscus,</font> <br>
-3.quartz\quartz.layout.ts文件，Component.Backlinks(),后面，增加 <font color="#ff0000">Component.Giscus(),</font>。<br>，也可以像官方一样，加在quartz.layout.ts文件中的sharedPageComponents中的afterBody里面（区别仅仅是显示位置的不同，官方这个显示位置更适合页面布局，使页面看起来更协调），即：
-
-```
-afterBody: [],
-```
-改为
-```
-afterBody: [  
-  Component.Giscus(),  
-],
-```
-
-```
-right: [  
-  Component.Graph(),  
-  Component.DesktopOnly(Component.TableOfContents()),  
-  Component.Backlinks(),  
-  Component.Giscus(),  
-],
-```
-
+	#### 2024-10-03 23:22:17
+	今天发现 [11ze's Garden-添加评论区](https://wangze.tech/添加评论区) 的教程无法访问了，好在官方出了一个教程：[Comments (jzhao.xyz)](https://quartz.jzhao.xyz/features/comments)。不过官方的写法略复杂，结合wangze.tech的教程，记录在这儿，避免失效，如下：<br>
+	需要改三个文件：<br>
+	1.quartz\quartz\components\pages 文件夹下添加文件，文件名：Giscus.tsx ，内容如下：<br> ^ccb3b2
+	```
+	import { QuartzComponentConstructor } from "../types"  
+	  
+	function Content() {  
+	  return <script src="https://giscus.app/client.js"  
+	                 data-repo="NoZTurn/quartz"  
+	                 data-repo-id="R_kgDOLCpiKg"  
+	                 data-category="General"  
+	                 data-category-id="DIC_kwDOLCpiKs4CccEP"  
+	                 data-mapping="title"  
+	                 data-strict="0"  
+	                 data-reactions-enabled="1"  
+	                 data-emit-metadata="0"  
+	                 data-input-position="bottom"  
+	                 data-theme="preferred_color_scheme"  
+	                 data-lang="zh-CN"  
+	                 crossorigin="anonymous"  
+	                 async>  
+	  </script>  
+	}  
+	  
+	export default (() => Content) satisfies QuartzComponentConstructor
+	```
+	注：以上有关data的内容，请相应修改成自己的。<br>
+	2.quartz\quartz\components\index.ts 文件，import最后一行，添加import Giscus from "./pages/Giscus"，export最后一行（<font color="#ff0000">前面}</font>）添加 <font color="#ff0000">Giscus,</font> <br>
+	3.quartz\quartz.layout.ts文件，Component.Backlinks(),后面，增加 <font color="#ff0000">Component.Giscus(),</font>。<br>，也可以像官方一样，加在quartz.layout.ts文件中的sharedPageComponents中的afterBody里面（区别仅仅是显示位置的不同，官方这个显示位置更适合页面布局，使页面看起来更协调），即：
+	
+	```
+	afterBody: [],
+	```
+	改为
+	```
+	afterBody: [  
+	  Component.Giscus(),  
+	],
+	```
+	
+	```
+	right: [  
+	  Component.Graph(),  
+	  Component.DesktopOnly(Component.TableOfContents()),  
+	  Component.Backlinks(),  
+	  Component.Giscus(),  
+	],
+	```
 
 ### 2024-01-22 10:56:06
 建立了[关于](about.md)页面。
