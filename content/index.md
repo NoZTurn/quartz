@@ -86,16 +86,16 @@ quartz/.github/workflows/deploy.yml中的几个更新：
 21     - uses: actions/checkout@v3
 24     - uses: actions/setup-node@v3
 26          node-version: 22
-32        uses: actions/upload-pages-artifact@v3.0.1
-45        uses: actions/deploy-pages@v4.0.5
+32        uses: actions/upload-pages-artifact@v2
+45        uses: actions/deploy-pages@v3
 ```
 更新为
 ```
 21      - uses: actions/checkout@v4
 24      - uses: actions/setup-node@v4
 26          node-version: 22.2.0
-32        uses: actions/upload-pages-artifact@v2
-45        uses: actions/deploy-pages@v3
+32        uses: actions/upload-pages-artifact@v3.0.1
+45        uses: actions/deploy-pages@v4.0.5
 ```
 quartz/.github/workflows/ci.yaml中的几个更新：
 ```
@@ -103,13 +103,11 @@ quartz/.github/workflows/ci.yaml中的几个更新：
 26        uses: actions/setup-node@v3
 28          node-version: 18
 31        uses: actions/cache@v3
-45        uses: actions/deploy-pages@v4.0.5
 ```
 改为
 ```
 22      - uses: actions/checkout@v4
 27        uses: actions/setup-node@v4
-26          node-version: 22.2.0
-32        uses: actions/upload-pages-artifact@v2
-45        uses: actions/deploy-pages@v3
+29          node-version: 22.2.0
+32        uses: actions/cache@v4
 ```
