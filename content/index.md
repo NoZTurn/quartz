@@ -10,7 +10,11 @@ tags:
 安装了Quartz，测试基本可用[the first garden message](the%20first%20garden%20message.md)，借助Obsidian手机客户端可以实现发布[发布a garden message from iphone](a%20garden%20message%20from%20iphone.md)、[编辑the first garden message](the%20first%20garden%20message.md)消息了。
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+### 2024-01-10 00:00:00
 
+安装了Quartz，测试基本可用[the first garden message](the%20first%20garden%20message.md)，借助Obsidian手机客户端可以实现发布[发布a garden message from iphone](a%20garden%20message%20from%20iphone.md)、[编辑the first garden message](the%20first%20garden%20message.md)消息了。
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 ### 2024-01-16 12:27:00
 感谢 [11ze's Garden-添加评论区](https://wangze.tech/添加评论区) 的教程，折腾把Quartz的giscus评论加上了，唯一美中不足的是quartz设置成Graph view/Backlinks/giscus都只能放在layout的right区中，挤在一起不太美观，看看后续官方更新中是否有改进空间（官方已经将giscus插件放入upcoming feature了，见 [https://github.com/jackyzha0/quartz/blob/v4/docs/features/upcoming features.md](https://github.com/jackyzha0/quartz/blob/v4/docs/features/upcoming%20features.md) ）。
 
