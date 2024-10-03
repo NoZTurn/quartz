@@ -82,3 +82,11 @@ right: [
 熬夜简直停不下来，:捂脸)，将garden提交到官方的showcase，[add [🪴 Jiang Kai's Garden](https://garden.jiangkai.org/) to showcase](https://github.com/jackyzha0/quartz/pull/1476) ，Review required，感谢官方分享的程序，期待审核通过。
 ### 2024-10-04 04:44:44
 quartz/.github/workflows/deploy.yml中的几个更新：
+
+```
+21     - uses: actions/checkout@v3
+24     - uses: actions/setup-node@v3
+26          node-version: 22
+32        uses: actions/upload-pages-artifact@v3.0.1
+45        uses: actions/deploy-pages@v4.0.5
+```
