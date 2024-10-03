@@ -46,7 +46,18 @@ export default (() => Content) satisfies QuartzComponentConstructor
 ```
 注：以上有关data的内容，请相应修改成自己的。<br>
 2.quartz\quartz\components\index.ts 文件，import最后一行，添加import Giscus from "./pages/Giscus"，export最后一行（<font color="#ff0000">前面}</font>）添加 <font color="#ff0000">Giscus,</font> <br>
-3.quartz\quartz.layout.ts文件，Component.Backlinks(),后面，增加 <font color="#ff0000">Component.Giscus(),</font>。<br>
+3.quartz\quartz.layout.ts文件，Component.Backlinks(),后面，增加 <font color="#ff0000">Component.Giscus(),</font>。<br>，也可以向官方一样，加在quartz.layout.ts文件中的sharedPageComponents中的afterBody里面，即：
+
+```
+afterBody: [],
+```
+改为
+```
+afterBody: [  
+  Component.Giscus(),  
+],
+```
+
 ```
 right: [  
   Component.Graph(),  
