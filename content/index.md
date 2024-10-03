@@ -20,7 +20,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 #### 2024-10-03 23:22:17
 今天发现 [11ze's Garden-添加评论区](https://wangze.tech/添加评论区) 的教程无法访问了，好在官方出了一个教程：[Comments (jzhao.xyz)](https://quartz.jzhao.xyz/features/comments)。不过官方的写法略复杂，结合wangze.tech的教程，记录在这儿，避免失效，如下：<br>
 需要改三个文件：<br>
-1.quartz\quartz\components\pages 文件夹下添加文件，文件名：Giscus.tsx ，内容如下：<br>
+1.quartz\quartz\components\pages 文件夹下添加文件，文件名：Giscus.tsx ，内容如下：<br> ^ccb3b2
 ```
 import { QuartzComponentConstructor } from "../types"  
   
@@ -76,4 +76,4 @@ right: [
 
 ### 2024-10-03 22:51:06
 年初刚开始使用的时候版本是4.1.5，一直想和quartz官方保持同步，折腾了好几次升级，一直不成功，今天登录[github.com](https://github.com/NoZTurn/quartz)，发现来了好几个[dependabot](https://github.com/apps/dependabot)，把node.js，npm等几个依赖都升级了版本，我接受pull request之后，惊喜的发现quartz的版本也从4.1.5升级到4.3.1了，真是无心插柳啊，但是疑问是为什么没有升级到官方最新的4.4.0呢？再看看吧。
-升级之后，发现我的giscus评论也没有了，所以有了上面的[[giscus的补充记录]]。
+升级之后，发现我的giscus评论也没有了，所以有了上面的[giscus的补充记录](#^ccb3b2)。
