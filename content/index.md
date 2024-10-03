@@ -104,7 +104,7 @@ quartz/.github/workflows/ci.yaml中的几个更新：
 28          node-version: 18
 31        uses: actions/cache@v3
 ```
-改为
+更新为
 ```
 22      - uses: actions/checkout@v4
 27        uses: actions/setup-node@v4
