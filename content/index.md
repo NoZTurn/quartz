@@ -79,5 +79,5 @@ right: [
 ### 2024-10-04 03:07:16
 解决了git的冲突，以及自己上述修改giscus的几个文件，终于升级到了最新版的4.4.0。
 ### 2024-10-04 03:43:23
-熬夜简直停不下来，:捂脸)，将garden提交到官方的showcase，[add [🪴 Jiang Kai's Garden](https://garden.jiangkai.org/) to showcase](https://github.com/jackyzha0/quartz/pull/1476) ，Review required，ga。
+熬夜简直停不下来，:捂脸)，将garden提交到官方的showcase，[add [🪴 Jiang Kai's Garden](https://garden.jiangkai.org/) to showcase](https://github.com/jackyzha0/quartz/pull/1476) ，Review required，感谢官方分享的程序，期待审核通过。
 。
