@@ -76,5 +76,8 @@ right: [
 ### 2024-10-03 22:51:06
 年初刚开始使用的时候版本是4.1.5，一直想和quartz官方保持同步，折腾了好几次升级，一直不成功，今天登录[github.com](https://github.com/NoZTurn/quartz)，发现来了好几个[dependabot](https://github.com/apps/dependabot)，把node.js，npm等几个依赖都升级了版本，我接受pull request之后，惊喜的发现quartz的版本也从4.1.5升级到4.3.1了，真是无心插柳啊，但是疑问是为什么没有升级到官方最新的4.4.0呢？再看看吧。
 升级之后，发现我的giscus评论也没有了，所以有了上面的[giscus的补充记录](#^ccb3b2)。
-### 2024-10-04 03:07:76
+### 2024-10-04 03:07:16
 解决了git的冲突，以及自己上述修改giscus的几个文件，终于升级到了最新版的4.4.0。
+### 2024-10-04 03:43:23
+熬夜简直停不下来，:捂脸)，将garden提交到官方的showcase，[add [🪴 Jiang Kai's Garden](https://garden.jiangkai.org/) to showcase](https://github.com/jackyzha0/quartz/pull/1476) ，Review required，ga。
+。
