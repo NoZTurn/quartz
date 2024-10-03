@@ -75,4 +75,5 @@ right: [
 目前主要是基于[Obsidian-Memos: A quick capture plugin for Obsidian, all data from your notes.](https://github.com/Quorafind/Obsidian-Memos)插件践行[卢曼](/tags/卢曼)的卡片式记录法在记录，主要内容更新见[DailyNotes](DailyNotes)。
 
 ### 2024-10-03 22:51:06
-年初刚开始使用的时候版本是4.1.5，一直想和quartz官方保持同步，折腾了好几次升级，一直不成功，今天登录[github.com](https://github.com/NoZTurn/quartz)。，发现来了好几个
+年初刚开始使用的时候版本是4.1.5，一直想和quartz官方保持同步，折腾了好几次升级，一直不成功，今天登录[github.com](https://github.com/NoZTurn/quartz)，发现来了好几个[dependabot](https://github.com/apps/dependabot)，把node.js，npm等几个依赖都升级了版本，我接受pull request之后，惊喜的发现quartz的版本也从4.1.5升级到4.3.1了，真是无心插柳啊，但是疑问是为什么没有升级到官方最新的4.4.0呢？再看看吧。
+升级之后，发现我的giscus评论也没有了，所以有了上面的[[giscus的补充记录]]。
