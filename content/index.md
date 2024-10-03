@@ -73,3 +73,6 @@ right: [
 
 ### 2024-01-26 16:16:18
 目前主要是基于[Obsidian-Memos: A quick capture plugin for Obsidian, all data from your notes.](https://github.com/Quorafind/Obsidian-Memos)插件践行[卢曼](/tags/卢曼)的卡片式记录法在记录，主要内容更新见[DailyNotes](DailyNotes)。
+
+### 2024-10-03 22:51:06
+一直想和quartz官方保持同步，年初刚kai。
