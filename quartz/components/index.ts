@@ -45,4 +45,5 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
+  Giscus,
 }
