@@ -68,7 +68,7 @@ right: [
 ```
 
 ### 2024-01-22 10:56:06
-建立了[关于](garden%20about.md)页面。
+建立了[关于](about.md)页面。
 
 ### 2024-01-26 16:16:18
 目前主要是基于[Obsidian-Memos: A quick capture plugin for Obsidian, all data from your notes.](https://github.com/Quorafind/Obsidian-Memos)插件践行[卢曼](/tags/卢曼)的卡片式记录法在记录，主要内容更新见[DailyNotes](DailyNotes)。
@@ -76,38 +76,5 @@ right: [
 ### 2024-10-03 22:51:06
 年初刚开始使用的时候版本是4.1.5，一直想和quartz官方保持同步，折腾了好几次升级，一直不成功，今天登录[github.com](https://github.com/NoZTurn/quartz)，发现来了好几个[dependabot](https://github.com/apps/dependabot)，把node.js，npm等几个依赖都升级了版本，我接受pull request之后，惊喜的发现quartz的版本也从4.1.5升级到4.3.1了，真是无心插柳啊，但是疑问是为什么没有升级到官方最新的4.4.0呢？再看看吧。
 升级之后，发现我的giscus评论也没有了，所以有了上面的[giscus的补充记录](#^ccb3b2)。
-### 2024-10-04 03:07:16
+### 2024-10-04 03:07:76
 解决了git的冲突，以及自己上述修改giscus的几个文件，终于升级到了最新版的4.4.0。
-### 2024-10-04 03:43:23
-熬夜简直停不下来，:捂脸)，将garden提交到官方的showcase，[add [🪴 Jiang Kai's Garden](https://garden.jiangkai.org/) to showcase](https://github.com/jackyzha0/quartz/pull/1476) ，Review required，感谢官方分享的程序，期待审核通过。
-### 2024-10-04 04:44:44
-quartz/.github/workflows/deploy.yml中的几个更新：<br>
-```
-21     - uses: actions/checkout@v3
-24     - uses: actions/setup-node@v3
-26          node-version: 22
-32        uses: actions/upload-pages-artifact@v2
-45        uses: actions/deploy-pages@v3
-```
-更新为
-```
-21      - uses: actions/checkout@v4
-24      - uses: actions/setup-node@v4
-26          node-version: 22.2.0
-32        uses: actions/upload-pages-artifact@v3.0.1
-45        uses: actions/deploy-pages@v4.0.5
-```
-quartz/.github/workflows/ci.yaml中的几个更新：
-```
-21      - uses: actions/checkout@v3
-26        uses: actions/setup-node@v3
-28          node-version: 18
-31        uses: actions/cache@v3
-```
-更新为
-```
-22      - uses: actions/checkout@v4
-27        uses: actions/setup-node@v4
-29          node-version: 22.2.0
-32        uses: actions/cache@v4
-```
