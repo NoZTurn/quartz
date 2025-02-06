@@ -4,7 +4,8 @@ node_modules
 public
 public/FashionW
 prof
-tsconfig.tsbuildinfo
+tsconfig.ts
+buildinfo
 .obsidian
 .quartz-cache
 private/
