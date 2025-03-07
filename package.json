@@ -65,6 +65,7 @@
     "preact-render-to-string": "^6.5.13",
     "pretty-bytes": "^6.1.1",
     "pretty-time": "^1.1.0",
+    "punycode": "^2.3.1",
     "reading-time": "^1.5.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-citation": "^2.2.2",
@@ -86,7 +87,6 @@
     "satori": "^0.12.1",
     "serve-handler": "^6.1.6",
     "sharp": "^0.33.5",
-    "shiki": "^3.1.0",
     "source-map-support": "^0.5.21",
     "to-vfile": "^8.0.0",
     "toml": "^3.0.0",
@@ -109,6 +109,7 @@
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.25.0",
     "prettier": "^3.5.3",
+    "shiki": "^2.5.0",
     "tsx": "^4.19.3",
     "typescript": "^5.8.2"
   }
