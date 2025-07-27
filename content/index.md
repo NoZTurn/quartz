@@ -7,6 +7,11 @@ tags:
 ---
 ### 2024-01-09 21:39:24
 
+([关于本站。](https://garden.jiangkai.org/about))，和个人的一些信息。
+[about](https://garden.jiangkai.org/about), you can explore some details about my personal.
+
+### 2024-01-09 21:39:24
+
 安装了[Quartz](https://quartz.jzhao.xyz/)，测试基本可用[the first garden message](the%20first%20garden%20message.md)，借助[Obsidian](https://obsidian.md/)手机客户端可以实现发布[发布a garden message from iphone](a%20garden%20message%20from%20iphone.md)、[编辑the first garden message](the%20first%20garden%20message.md)消息了。
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
