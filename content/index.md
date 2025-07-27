@@ -5,10 +5,10 @@ tags:
 - 记录
 - 成长
 ---
-### 2024-01-09 21:39:24
+### 2025-07-27 20:27:55
 
-([关于本站。](https://garden.jiangkai.org/about))，和个人的一些信息。
-[about](https://garden.jiangkai.org/about), you can explore some details about my personal.
+[关于本站](https://garden.jiangkai.org/about)，和个人的一些信息。
+[About](https://garden.jiangkai.org/about), you can explore some personal details about me.
 
 ### 2024-01-09 21:39:24
 
